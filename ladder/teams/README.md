@@ -26,8 +26,8 @@ but they can still keep team approval access. Active Mentors of a team are expec
 should participate in for the code owner area.
 
 ## Don't Forget to Set Your GitHub Status
-When active team members are not available for an extended period of time (for example they are on vacation for several days), 
-they are encouraged to set themselves as busy in their [GitHub status](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status). If your status is busy GitHub will skip you to the pull request review rotation for the teams you are on.
+As an active team member, if you are not available for an extended period of time (for example, you go on vacation for several days), 
+set yourself as busy in the [GitHub status](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status). If your status is busy GitHub will skip you to the pull request review rotation for the teams you are on.
 
 Note: Not everyone should be busy all at the same time on a GitHub team if it can be avoided. Cilium Team Management automation puts 
 some guardrails on this and lets the Cilium project know if there aren't sufficient number of reviewers. The GitHub organization owners (or someone 
