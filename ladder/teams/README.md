@@ -61,7 +61,4 @@ have other team rights such as commit and approval for changes to files owned by
 
 `username_01` and `username_03` are active team members participating in the automatic PR review rotation.
 
-`username_04` is listed as a mentor, but not a member. This is here as recognition that historically the person participated in the team 
-and is willing to be contacted for historical experience when needed, but doesn't have normal team member access to approve.
-Listing non-active members as mentors is a way to keep institutional knowledge as to who historically provided insight about code functionality to newer 
-members on that team.
+`username_04` is listed as a mentor, but not a member. This person doesn't have normal team member access to approve. However, this can be useful to document who may have historical insight into code functionality owned by this team.
