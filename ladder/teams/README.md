@@ -16,7 +16,7 @@ Changes to files in this directory, when merged into the main branch (after appr
 will propogate via GitHub API automation and be reflected in the Cilium GitHub Organization's [teams](https://github.com/orgs/cilium/teams).
 
 ## GitHub Team Member and Mentors
-With membership comes both priviledges and responsibilities.  One of the responsibilities of being on an active Cilium GitHub team member is 
+With membership comes both privileges and responsibilities.  One of the responsibilities of being on an active Cilium GitHub team member is 
 being available for automatic pull request review assignment for files owned by that GitHub team. 
 
 Over time as contributors transition from one GitHub team to another inside the project, while not active on a team any longer, 
