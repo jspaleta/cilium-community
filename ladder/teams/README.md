@@ -1,6 +1,6 @@
 # How Cilium GitHub Teams Are Managed
 The Cilium project makes use of GitHub teams to help enforce responsibility boundaries with regard to the project codebase here on GitHub.
-GitHub teams loosely map groups of [contributors](https://github.com/cilium/community/blob/main/CONTRIBUTOR-LADDER.md) to the Cilium Project as either reviewers and/or committers, focused on a portion of the codebase. [GitHub teams](https://github.com/orgs/cilium/teams) are an implementation detail in how code access and review responsibilities are organized and are not a 1 to 1 mapping to [Cilium Project teams](https://github.com/cilium/community/blob/main/CONTRIBUTOR-ROLES.md).
+GitHub teams loosely map groups of [contributors](https://github.com/cilium/community/blob/main/CONTRIBUTOR-LADDER.md) to the Cilium Project as either reviewers and/or committers, focused on a portion of the codebase. [GitHub teams](https://github.com/orgs/cilium/teams) used to manage code access and review responsibilities.
 
 For example, the Cilium Project Code team, may require multiple GitHub teams in the Cilium GitHub organization to self-organize their work. 
 These multiple GitHub teams will be composed of contributors at different steps along the contributor ladder: organizational members, reviewers, and committers.  
