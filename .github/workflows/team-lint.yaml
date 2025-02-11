@@ -6,8 +6,10 @@ on:
 
   # on pull request involving the ladder/teams directory
   pull_request:
-    paths: 'ladder/teams/**'
-
+    paths: 
+      - 'ladder/teams/**'
+      - '.github/workflows/team-lint.yaml'
+    
 jobs:
   team-management-linter:
     if: github.repository == 'cilium/community'
